@@ -23,7 +23,7 @@ A modern, self-hosted blog CMS with admin panel and static site generator.
 2. git clone ... && cd currex-blog
 3. npm install
 4. npm start
-5. Open http://localhost:4000
+5. Open https://currex.top
 
 ---
 
