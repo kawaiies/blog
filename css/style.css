@@ -221,3 +221,6 @@ ul{list-style:none}
 .footer-col #mc_embed_signup .clear { font-weight: 400; }
 .footer-col #mc_embed_signup .indicates-required { display: none; }
 .footer-col #mc_embed_signup .optionalParent { display: none; }
+
+
+/* Post Content Tables */.post-content table{width:100%;border-collapse:collapse;margin:20px 0;font-size:15px;}.post-content th{background:#000;color:#fff;padding:12px;border:1px solid #333;text-align:left;}.post-content td{padding:10px;border:1px solid #ddd;}.post-content tr:nth-child(even) td{background:#fafafa;}.post-content blockquote{border-left:none;margin:20px 0;padding:0;background:transparent;}.post-content blockquote a{display:inline-block;background:#000;color:#fff!important;text-decoration:none;border-radius:50px;padding:12px 32px;font-weight:600;}
